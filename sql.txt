@@ -1,0 +1,3 @@
+select note
+from tab1
+where note > 10;
